@@ -1,0 +1,5 @@
+1) Innkapsling er en teknikk som brukes når man programmerer objektorientert. Det hindrer direkte tilgang til et objekt fra objekter av andre klasser.
+
+2) Grensesnittet til en klasse er bestemt av objektets klasse. Dette er nyttig for å vise "brukeren" de tilgjengelige funksjonene den kan påvirke. Forskjellen er at impelemtasjonen kan ikke bli påvirket av bruker.
+
+3) En instansmetode er omtrent det samme som en funksjon og en prosedyre, den tar ingen parametere men returnerer en verdi. En instansmetode henviser til et objekt som argument, og returnerer en verdi basert på objektet.

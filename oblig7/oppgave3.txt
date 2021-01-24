@@ -1,0 +1,3 @@
+b) En grunn til at ikke instansvariabelen lagrer sangene i en liste og ikke i en ordbok, er fordi vi ønsker å legge til alle sang-objektene til, uten å gi hver av dem en bestemt nøkkelverdi. Det lar oss skrive ut alle kun ved hjelp av å travasjere gjennom listen og kalle på funksjonen spill av.
+
+c) En fordel med å la være å ta med filnavn med i konstruktøren, er at vi kan legge til sanger fra flere lister til samme objekt.
